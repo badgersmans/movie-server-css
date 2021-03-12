@@ -1,0 +1,24 @@
+.backgroundContainer {
+  background-color: #000000;
+  filter: brightness(20%);
+}
+.headerTabs.sectionTabs {
+  text-size-adjust: 100%;
+  font-size: 100%;
+}
+#loginPage .readOnlyContent,
+#loginPage form {
+  max-width: 22em;
+}
+#loginPage h1 {
+  display: none;
+}
+#loginPage .padded-left.padded-right.padded-bottom-page {
+  margin-top: 50px;
+}
+#loginPage .raised.cancel.block.btnManual.emby-button {
+  display: none;
+}
+#loginPage .raised.cancel.block.btnForgotPassword.emby-button {
+  display: none;
+}
