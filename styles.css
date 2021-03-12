@@ -1103,3 +1103,9 @@ a[data-role="button"] {
 .defaultCardBackground5 {
   background-color: #66666680;
 }
+
+/* purple accent color */
+@import url("https://ctalvio.github.io/Monochromic/customcolor-advanced_style.css");
+:root {
+  --accent: 98, 121, 205;
+}
